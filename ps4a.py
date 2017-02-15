@@ -2,6 +2,7 @@
 
 import random
 import string
+import time
 
 VOWELS = 'aeiou'
 CONSONANTS = 'bcdfghjklmnpqrstvwxyz'
